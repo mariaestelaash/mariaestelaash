@@ -24,4 +24,4 @@ I'm a **Python lover**!  At AshPassive, we are passionate about automating and o
 
 
 ### ⚡ Fun Fact:
-- [When I get stuck solving a problem, the best way to come up with new solutions is to jump into the shower and have a milk tea afterward! ☕🚿]
+- When I get stuck solving a problem, the best way to come up with new solutions is to jump into the shower and have a green milk tea afterward! ☕🚿
